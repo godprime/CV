@@ -1,0 +1,34 @@
+body {
+  background-color: #EAF6F6;
+  color: 7d5e2a;
+}
+img:hover {
+  background-color: gold;
+}
+hr {
+
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+  }
+h1{
+  color: #66BFBF;
+}
+h3{
+color: #66BFBF;
+}
+h4{
+  color: #1eb2a6;
+}
+table
+{
+  border: 1px solid
+  border-color: #79bac1;
+  color: #698474;
+}
+th {
+  background-color: #4CAF50;
+  color: white;
+}
